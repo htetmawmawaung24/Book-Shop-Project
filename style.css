@@ -1,0 +1,67 @@
+/* Style Order Page */
+.orderbg{
+	background-color: blue;
+	background-image: url("book4.jpg");
+}
+.pay{
+	margin-left: 60px;
+}
+.form-check{
+	margin-left: 60px;
+}
+.form{
+	margin-left: 60px;
+}
+.form2{
+	margin-left: 10px;
+}
+
+
+/* Style For Home Page */
+.para{
+	font-size: 80px;
+	font-weight: bold;
+}
+.homebg{
+	background-image: url("book7.jpg");
+	background-size: 1400px;
+}
+/* Style Confirm Page */
+#button{
+	background-color: #f44336;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+
+}
+.confirmbg{
+	background-image: url("book9.jpg");
+	background-size: 1200px;
+}
+/* Style Book Page */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.bookbg{
+	background-image: url("book9.jpg");
+	background-size: 1400px;
+}
